@@ -466,6 +466,7 @@ body {
   font-family: 'Sen', sans-serif;
   color: #FFFFFF;
   font-weight: bold;
+  white-space: nowrap;
 }
 
 .guide-container {
